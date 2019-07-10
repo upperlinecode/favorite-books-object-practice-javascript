@@ -1,5 +1,5 @@
 // Here's a small JSON object of favorite books, each keyed to a different person.
-favorite_books = {
+let favorite_books = {
   "diana": "Crime and Punishment",
   "sophie": "The Secret History",
   "cory": "Fahrenheit 451",

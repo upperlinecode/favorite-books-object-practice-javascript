@@ -14,14 +14,14 @@ Iteration for an object is really similar to iteration for a list, with just one
 
 ```js
 
-treatments = {
+let treatments = {
   "sunburn": "apply some aloe vera",
   "dehydration": "drink some water",
   "headache": "drink some water and consider taking a pain-reliever"
 }
 
 // First collect the issues in an array:
-issues = Object.keys(treatments)
+let issues = Object.keys(treatments)
 // At this point, issues should be the array ["sunburn", "dehydration", "headache"]
 
 // Then, iterate as normal:
@@ -51,7 +51,7 @@ If you need a boost, you can see answers to challenge 1 and challenge 3a.
   <summary> Click to see a solution to challenge 3a </summary>
 
   ```js
-  people = Object.keys(favorite_books) // This should collect JUST the keys and return them as an array.
+  let people = Object.keys(favorite_books) // This should collect JUST the keys and return them as an array.
   ```
 
 </details>

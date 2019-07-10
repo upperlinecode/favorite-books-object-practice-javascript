@@ -1,4 +1,4 @@
-contacts = [
+let contacts = [
 	{"name": "Gail", "phone": "1-586-721-0425", "email": "volutpat.Nulla@ultricesVivamusrhoncus.ca", "company": "Nisl Consulting", "address": "Ap #713-1686 Ipsum Avenue"},
 	{"name": "Kiara", "phone": "1-570-815-0661", "email": "Curae.Donec.tincidunt@pharetra.edu", "company": "Lacus Cras Corporation", "address": "Ap #913-1818 Fermentum St."},
 	{"name": "Linda", "phone": "1-929-491-0254", "email": "lacinia.orci@nec.edu", "company": "Arcu Aliquam Ultrices Corporation", "address": "546-9340 Erat. Avenue"},
