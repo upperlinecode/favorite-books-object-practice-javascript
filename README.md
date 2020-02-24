@@ -2,6 +2,8 @@
 
 ### The goal
 
+This lab is housed in the `objects.js` file. 
+
 In this lab, you'll start to deal with JSON objects that organize data more and more clearly. We'll start with an array of favorite books, but each book is keyed to a person's name.
 
 For example, to print Zara's favorite book, you'd use the code `console.log(favorite_books["zara"])`.
