@@ -41,7 +41,7 @@ let favorite_books = {
 
 
 
-// LEVEL 2: In the address_book.py file, there's an array called "contacts" with 100 dictionaries inside of it. Each JSON object representes a person, and has that person's name, phone number, email, the company they work for, and their address.
+// LEVEL 2: In the addressbook.js file, there's an array called "contacts" with 100 dictionaries inside of it. Each JSON object representes a person, and has that person's name, phone number, email, the company they work for, and their address.
 //    That means you could print the 7th person's email using this line of code:
 //    console.log(address_book.contacts[6]["email"]) // Uncomment this to see if it works. (Remember, array indexing starts at zero, so we use the number 6 to access the 7th name).
 
