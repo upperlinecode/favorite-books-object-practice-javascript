@@ -14,37 +14,37 @@ let favorite_books = {
   "jeff": "The Hitchhiker's Guide to the Galaxy"
 }
 
-// 0a. Console log out Martin's favorite book.
+// 1. Console log out Martin's favorite book.
 
 
 
-// 0b. Console log out Alexandra's favorite book.
+// 2. Console log out Alexandra's favorite book.
 
 
 
-// 1a. Before we get started, lets adjust a few things. First off, Jeff just read a new book called "The Martian" and loved it. With just one line of code, change Jeff's favorite book to "The Martian"
+// 3. Before we get started, lets adjust a few things. First off, Jeff just read a new book called "The Martian" and loved it. With just one line of code, change Jeff's favorite book to "The Martian"
 
 
 
-// 1b. Console log out Jeff's favorite book to makre sure it was changed correctly.
+// 4. Console log out Jeff's favorite book to makre sure it was changed correctly.
 
 
 
-// 2a. We should also add Ronald to the array. His favorite book is "Lies my History Teacher Told Me."
+// 5. We should also add Ronald to the array. His favorite book is "Lies my History Teacher Told Me."
 //    Add that info to the JSON object as a new key-value pair.
 
 
 
-// 2b. Confirm that Ronald's book was added by console.logging it out.
+// 6. Confirm that Ronald's book was added by console.logging it out.
 
 
 
-// 3a. Now let's start iterating. But first, we'll need an array of the keys for the JSON object.
+// 7. Now let's start iterating. But first, we'll need an array of the keys for the JSON object.
 // Use the Object.keys() function to generate an array of the keys for our object.
 
 
 
-// 3b. Now that we have an array of the names, for each person in the JSON object, print out (console.log) a statement that says "___'s favorite book is ____" and fill in the blanks with that person's name and that person's favorite book.
+// 8. Now that we have an array of the names, for each person in the JSON object, print out (console.log) a statement that says "___'s favorite book is ____" and fill in the blanks with that person's name and that person's favorite book.
 
 
 
@@ -56,36 +56,36 @@ let favorite_books = {
 
 
 
-// 4. Log the address book to the console.
+// 9. Log the address book to the console.
 
 
 
-// 5. Log the 5th person from the address book to the console.
+// 10. Log the 5th person from the address book to the console.
 
 
 
-// 6. Log the email of the 7th person from the address book to the console.
+// 11. Log the email of the 7th person from the address book to the console.
 
 
 
-// 7. Log the name of the first person from the address book to the console.
+// 12. Log the name of the first person from the address book to the console.
 
 
 
 
-// 8. Log out the name and phone number of the first person in the contacts array in the following format:
+// 13. Log out the name and phone number of the first person in the contacts array in the following format:
 //    "_____ can be reached at ______" filling in the blanks with the person's name and phone number.
 
 
 
 
-// 9. Log out the same information "_____ can be reached at ______" with names and phone numbers for all 100 of our contacts.
+// 14. Log out the same information "_____ can be reached at ______" with names and phone numbers for all 100 of our contacts.
 
 
 
 
 
-// 10. We're going to send a mass text to all our contacts, so we need everyone's phone number. Our texting program can do it in an instant if we put all the numbers into an array.
+// 15. We're going to send a mass text to all our contacts, so we need everyone's phone number. Our texting program can do it in an instant if we put all the numbers into an array.
 //    Create an array called phone_numbers, iterate over our contacts, and add each person's number to that array.
 //    Print out the array when you're done to check your work.
 
@@ -94,6 +94,6 @@ let favorite_books = {
 
 
 
-// 11. If we wanted to send an email that was only useful for college students and their professors, we could send that email ONLY to folks in our contacts whose email addresses end in ".edu".
+// 16. If we wanted to send an email that was only useful for college students and their professors, we could send that email ONLY to folks in our contacts whose email addresses end in ".edu".
 //    Create an array called edu_emails and put every .edu email address from our contacts into that array.
 ///   Print the array when you're done to check your work.
