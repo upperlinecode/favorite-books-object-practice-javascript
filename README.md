@@ -1,5 +1,7 @@
 # Favorite Books - JSON Edition!
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/favorite-books-object-practice-javascript)](https://repl.it/github/upperlinecode/favorite-books-object-practice-javascript)
+
 ### The goal
 
 This lab is housed in the `objects.js` file. 
